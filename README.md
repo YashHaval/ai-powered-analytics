@@ -55,7 +55,9 @@ streamlit run app.py
 
 ## Project Structure
 
+```
 ai-powered-analytics/
 │── app.py
 │── requirements.txt
 │── README.md
+```
