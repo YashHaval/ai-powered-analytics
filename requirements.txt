@@ -1,20 +1,7 @@
-
 Python 3.8+
-
-
 streamlit
-
-
 pandas
-
-
 numpy
-
-
 plotly
-
-
 scikit-learn
-
-
 openpyxl (for Excel support)
